@@ -1,1 +1,1 @@
-null
+.pet{display:flex;margin:24px 0}.pet__avatar{margin:0 40px 0 0}.pet__avatar img{width:80px;display:block}.pet__body{flex:1}.pet__name{color:#797979;margin-bottom:8px;line-height:1;font-weight:bold;font-size:16px}.pet__name small{font-size:13px}.pet__exp-bar{margin-bottom:10px}.pet__exp{color:rgba(0,0,0,0.38);font-size:12px;line-height:1}
