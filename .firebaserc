@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "gitpet-e4dd5"
+  },
+  "targets": {
+    "gitpet-e4dd5": {
+      "hosting": {
+        "angular-example": [
+          "gitpet-e4dd5"
+        ]
+      }
+    }
   }
 }
